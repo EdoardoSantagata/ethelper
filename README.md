@@ -41,7 +41,7 @@ pip install streamlit --upgrade
 
 To run the application, use:
 
-streamlit run app.py
+streamlit run ethelper.py
 
 The application should run on the following default host and automatically open a tab on your internet browser:
 
