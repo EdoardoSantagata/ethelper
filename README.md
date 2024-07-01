@@ -68,6 +68,9 @@ NOTE: When inputting values for each key, do not change the preset group of keys
 ## SUPPORT
 
 If you have any issues, reach out to:
+
 Edoardo Santagata
+
 edoardo.santagata@unsw.edu.au
+
 The University of New South Wales (UNSW)
