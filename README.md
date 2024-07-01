@@ -1,6 +1,5 @@
 
-................................................................
-
+.................................................................................................................................................
 Welcome to ETHelper - Dataset Generator and Local Tester for the Energy Transition Model (ETM)
 
 ## OVERVIEW
@@ -21,9 +20,6 @@ presets - contains .csv files to indicate which keys are relevant for specific d
 
 variables - contains list of keys and translations for each key in .csv format. 
 
-development - contains material related to development process, including older iterations of the application codebase.
-
-venv - contains files relating to the python virtual environment to run the application. 
 
 ## SETUP
 
@@ -38,6 +34,8 @@ source venv/bin/activate
 
 venv/Scripts/activate
 (if on Windows)
+
+This will create a venv folder in the repository, with files relating to the python virtual environment to run the application. 
 
 Then install the required libraries within the virtual environment:
 
@@ -56,13 +54,15 @@ The application should run on the following default host and automatically open 
   Local URL: http://localhost:8501
   Network URL: http://[YOUR_IP_ADDRESS]:8501
 
-Close the application with CNTRL+C
+Close the application with CNTRL+C from the cmd interface.
 
 NOTE: Docker is required to run this application!
 
 ## FUNCTIONALITIES
 
 NOTE: When inputting values for each key, do not change the preset group of keys, as this will delete your reset the preset-exclusive inputs!
+
+## SUPPORT
 
 If you have any issues, reach out to:
 Edoardo Santagata
